@@ -1,5 +1,10 @@
 # Tenzies 🎲
 
+[![Demo](https://github.com/user-attachments/assets/d8bcbd41-aadd-47c3-874d-c2167b6feea5)](https://spectacular-biscuit-3ae0e8.netlify.app/)
+
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
+
+
 ## Description
 
 **Tenzies** is a dice game built with React. Roll the dice, freeze the ones you want to keep, and keep rolling until all ten dice show the same number. A timer and roll counter track your performance — beat your best! 🎉
