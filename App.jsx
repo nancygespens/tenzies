@@ -112,7 +112,7 @@ export default function App() {
         {gameWon ? "New Game" : "Roll"}
       </button>
       {gameWon && (
-        <p className="win-message">
+        <p className={`win-message ${gameWon ? "win-message--visible" : ""}`}>
           🎉 You won in {formatTime(time)} with {rollCount} rolls!
         </p>
       )}
